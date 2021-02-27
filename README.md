@@ -1,7 +1,6 @@
-<p align="center">
-    <img src="me.png" height="200" width="200" />
-# Hallo Welt👋! This is [Atharva](http://brainmetron.ml/) 🙋‍♂️
-</p>
+<p align="center"><img src="me.png" height="200" width="200" /><br>
+# Hallo Welt👋! This is <a href="http://brainmetron.ml">Atharva!</a> [](/) 🙋‍♂️
+</p><br>
 
                              \\\\\\\
                             \\\\\\\\\\\\
