@@ -22,7 +22,8 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-<br>
+<br>[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
+
 ![Profile views](https://gpvc.arturio.dev/Atharvachavan)
 <br>
 
@@ -40,6 +41,13 @@ _____________|','   ///_/-------------/   |
 
 ---
 
-Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
+##Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
-
+---
+[myprofile]: https://github.com/AtharvaChavan
+[buymeacoffee]: https://www.buymeacoffee.com/Mriduls
+[facebook]: https://www.facebook.com/mridul.panda.754/
+[instagram]: https://www.instagram.com/i_mridul
+[twitter]: https://twitter.com/i_mridul
+[Chess]: http://brainmetron.ml
+[react]: https://reactjs.org/
