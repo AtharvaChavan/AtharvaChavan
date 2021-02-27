@@ -1,27 +1,7 @@
 <p align="center"><img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200" /><br>
-# Hallo Welt👋! Ich heiße <a href="http://brainmetron.ml">Atharva!</a>🙋‍♂️
+#Hallo Welt👋! Ich heiße <a href="http://brainmetron.ml">Atharva!</a>🙋‍♂️
 </p>
-``` 
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______            \____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+
 <br>
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 ![Profile views](https://gpvc.arturio.dev/Atharvachavan)
@@ -39,12 +19,14 @@ _____________|','   ///_/-------------/   |
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://https://www.netflix.com/title/81039381)** as  well
 <br/>
 <br/>
+<br/>
+<br/><br/><br/>
 
 ---
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 [<img align="left" alt="mridul2820 | bmc" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-
+<br/>
 
 ###Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
