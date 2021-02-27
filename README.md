@@ -22,11 +22,12 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-<br>[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
-
+<br>
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
 ![Profile views](https://gpvc.arturio.dev/Atharvachavan)
 <br>
 
+##About me:
 ◾ 💻 Currently learning **[Data Science][react]**.
 <br/>
 ◾ ⚾  Love to play **[Chess][Chess]**.
