@@ -15,7 +15,7 @@
 <br/>
 ◾ ▶  Geting trained by  **[EPAM][EPAM] & [Zensar][Zensar]**.
 <br/>
-◾ ⚾  Love to play **[Chess][Chess]**.
+◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://https://www.netflix.com/title/81039381)** as  well
 <br/>
@@ -27,17 +27,24 @@
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 [<img align="left" alt="mridul2820 | bmc" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/>
+<br/><br/> <br>
 
-###Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
+### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
 ---
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
+[<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
+[<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
+[<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
+
+
+<details>
+  <summary><b>:brain: Magnus</b></summary>
+  <p align="center"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />
+</details>
+
 
 ---
 [myprofile]: https://github.com/AtharvaChavan
