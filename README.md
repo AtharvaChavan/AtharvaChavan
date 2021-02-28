@@ -1,20 +1,21 @@
-<p align="center"><a href="https://github.com/AtharvaChavan/#"><img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a><br> <br/>
+<p align="center"><a href="https://github.com/AtharvaChavan/#"><img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a>
 
 # Hallo Welt👋! Ich heiße <a href="http://brainmetron.ml">Atharva!</a>🙋‍♂️
 </p>
 
-<br>
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
-[![Profile views](https://gpvc.arturio.dev/Atharvachavan)
-<br> 
-<br/> 
 
-##About me:
+![Profile views](https://gpvc.arturio.dev/Atharvachavan)
+<br> 
+
+
+## About me: <br>
+
 ◾ 💻 Currently learning **[Data Science][DS]**.
 <br/>
-◾ 👕 Currently working with  **[Chegg][Chegg]**.
+◾ 👕 Currently working with as **[Subject Matter Expert at Chegg][Chegg]**.
 <br/>
-◾ ▶  Geting trained by  **[EPAM][EPAM] & [Zensar][Zensar]**.
+◾ ▶  Am currently trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
 <br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
@@ -23,13 +24,15 @@
 <br/><br/><br/>
 
 ---
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile] <br/><br/>
 
-[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/> <br> <br/><br/><br/>
 
 ### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
+
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
+<br/><br/> <br> 
+
 
 ---
 ### 🧧 Connect with me:
