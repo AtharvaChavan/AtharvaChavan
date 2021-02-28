@@ -1,4 +1,4 @@
-<img align="center"><a href="https://github.com/AtharvaChavan/#"> src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></img>
+[<img align="center"><a href="https://github.com/AtharvaChavan/#"> src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a>]
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
@@ -33,6 +33,9 @@
 
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
 <br/><br/> <br> 
+
+
+
 
 <details>
   <summary> <b>🧧 Connect with me:</b> </summary> 
