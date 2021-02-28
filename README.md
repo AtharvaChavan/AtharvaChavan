@@ -1,4 +1,4 @@
-<a href="https://github.com/AtharvaChavan/#"> <img align="center" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/></a>
+<p align="center" ><a href="https://github.com/AtharvaChavan/#"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/></a></p>
 
 [<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
 
@@ -31,16 +31,17 @@
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/> <br> <br/><br/> <br> <br/><br/> <br> <br/><br/> <br> 
+<br/><br/> <br>
 
 <details>
   <summary> <b>🧧 Connect with me:</b> </summary> 
     
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
+[<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter] <br/> <br/> 
 </details>
-
+<br/><br/>
+<br/><br/>
 ---
 [myprofile]: https://github.com/AtharvaChavan
 [buymeacoffee]: https://www.buymeacoffee.com/AtharvaChavan
