@@ -1,11 +1,12 @@
 <p align="center" ><a href="https://github.com/AtharvaChavan/#"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/></a></p>
 
-[<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
-
+<a href="https://github.com/AtharvaChavan/#"> <img align="right" src="https://gpvc.arturio.dev/Atharvachavan" alt="Views" />  </a>
+    
 # Hallo Welt👋! Ich heiße <a href="http://brainmetron.ml">Atharva!</a>🙋‍♂️
 <br> 
 
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
+<a href="https://github.com/AtharvaChavan/#"> <img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" />  </a>
+
 
 ## About me: <br>
 
