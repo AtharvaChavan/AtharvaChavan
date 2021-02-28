@@ -21,31 +21,26 @@
 <br/>
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://https://www.netflix.com/title/81039381)** as  well
 <br/>
-<br/><br/><br/>
-
 ---
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile] <br/><br/>
-
 
 ### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
+<b>:brain: Stay Sharp!</b>
+  <p align="center"><a href="http://brainmetron.ml"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
+---
 
-[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
+
+[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
+
+[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
 <br/><br/> <br> 
 
-
----
-### 🧧 Connect with me:
-
+<details>### 🧧 Connect with me:
+  <summary>
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
-
-<br><br><br><br>
-
-<details>
-  <summary><b>:brain: Magnus</b></summary>
-  <p align="center"><a href="http://brainmetron.ml"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
+ </summary>  
 </details>
 
 
