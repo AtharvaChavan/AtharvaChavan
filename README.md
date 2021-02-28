@@ -1,9 +1,9 @@
-<img align="center"><a href="https://github.com/AtharvaChavan/#"><img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></img>
+<img align="center"><a href="https://github.com/AtharvaChavan/#"> src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></img>
+
+[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
 # Hallo Welt👋! Ich heiße <a href="http://brainmetron.ml">Atharva!</a>🙋‍♂️
 [<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
-
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 <br> 
 
 ## About me: <br>
@@ -23,10 +23,11 @@
 
 ### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
 <br>
-<b>:brain: Stay Sharp!</b>
+<b>:brain: Stay Sharp!</b><br>
   <p align="center"><a href="http://brainmetron.ml"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
----
 
+
+---
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
