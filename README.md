@@ -5,7 +5,8 @@
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
-![Profile views](https://gpvc.arturio.dev/Atharvachavan)
+[<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
+![Profile views]
 <br> 
 
 
@@ -21,6 +22,7 @@
 <br/>
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://https://www.netflix.com/title/81039381)** as  well
 <br/>
+
 ---
 
 ### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
@@ -35,14 +37,13 @@
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
 <br/><br/> <br> 
 
-<details>### 🧧 Connect with me:
-  <summary>
+<details>
+  <summary> <b>🧧 Connect with me:</b> </summary> 
+    
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
- </summary>  
 </details>
-
 
 ---
 [myprofile]: https://github.com/AtharvaChavan
