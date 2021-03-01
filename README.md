@@ -1,4 +1,4 @@
-<a href="https://github.com/AtharvaChavan/#"> <img align="center" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a>
+<p align="center"><a href="https://github.com/AtharvaChavan/#"> <img align="center" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></p>
 <br>
 
 [<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
