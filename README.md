@@ -50,11 +50,11 @@
 
 <br> <br/> Wanna Buy me a Coffee?<br/> 
 
-[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg" style="vertical-align:middle; margin:3% 10%"/>][buymeacoffee]
+[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg" style="vertical-align:middle; margin: 4% 10%"/>][buymeacoffee]
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
 ---
 ### Some of my Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true?theme=outrun&hide=lang,stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
 
 ---
 <p align="center">
