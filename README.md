@@ -44,8 +44,10 @@
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
 </details>
 <br/><br/> 
+
+
 ---
-[myprofile]: https://github.com/AtharvaChavan
+[myprofile]: <https://github.com/AtharvaChavan>
 [buymeacoffee]: https://www.buymeacoffee.com/AtharvaChavan
 [facebook]: https://www.facebook.com/
 [instagram]: https://www.instagram.com/
