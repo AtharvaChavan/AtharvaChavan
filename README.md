@@ -2,8 +2,7 @@
 
 [<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
 
-# Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva.</a>🙋‍♂️
-<br>
+# Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva</a>🙋‍♂️
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
@@ -11,9 +10,9 @@
 
 ◾ 💻 Currently learning **[Data Science][DS]**.
 <br/>
-◾ 👕 Currently working with as **[Subject Matter Expert at Chegg][Chegg]**.
+◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
 <br/>
-◾ ▶  Am currently trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
+◾ :weight_lifting_man:  Am currently trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
 <br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
@@ -23,7 +22,7 @@
 ---
 
 ### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
-<br>
+
 <b>:brain: Stay Sharp!</b><br>
   <p align="center"><a href="http://brainmetron.ml"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
 
@@ -38,7 +37,7 @@
 <details>
   <summary> <b>🧧 Connect with me:</b> </summary> 
     
-<br/><br/> <br> 
+<br> 
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
@@ -49,9 +48,9 @@
 
 [myprofile]: <https://github.com/AtharvaChavan>
 [buymeacoffee]: https://www.buymeacoffee.com/AtharvaChavan
-[facebook]: https://www.facebook.com/
-[instagram]: https://www.instagram.com/
-[twitter]: https://twitter.com/
+[facebook]: https://www.facebook.com/AtharvaChavan4u
+[instagram]: https://www.instagram.com/atharva___chavan/
+[twitter]: https://twitter.com/Atharvachavan4u
 [Chess]: http://brainmetron.ml
 [DS]: https://www.computerscience.org/careers/data-science/
 [Chegg]: https://www.chegg.com/
