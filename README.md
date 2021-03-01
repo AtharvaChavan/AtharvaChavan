@@ -43,10 +43,11 @@
 
 </details>
 <br/><br/> <br/><br/> 
+
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/> <br> <br/><br/> <br> 
+<br/><br/> <br> <br/><br/> <br> <br/><br/> <br> <br/><br/> <br> 
 
 ---
 <p align="center">
