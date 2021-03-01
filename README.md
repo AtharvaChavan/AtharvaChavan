@@ -7,7 +7,7 @@
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
 ## About me: <br>
-◾ :student: 20 year old IT Engg Undergrad Student
+◾ :student: 20 year old **IT Engg**. Undergrad Student. <br/>
 ◾ 💻 Currently learning **[Data Science][DS]**.
 <br/>
 ◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
@@ -56,8 +56,8 @@
 ### Some of my Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&theme=synthwave&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/CaseChanger)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true?theme=synthwave&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/CaseChanger)
 
 ---
 <p align="center">
