@@ -30,7 +30,7 @@
 ---
 
 <details>
-  <summary> <b>🧧 Connect with me:</b> </summary> 
+  <summary>  <font size="2"><b> 🧧 Connect with me:</b></font></summary> 
     
 </br> 
 
@@ -42,7 +42,7 @@
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Chess%20Q.svg" />][Chess]
 
 </details>
-<br/><br/> <br/><br/> 
+<br/>
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
@@ -83,6 +83,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
 <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
+    <br>
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px"></p>
 
 <p align="center">
