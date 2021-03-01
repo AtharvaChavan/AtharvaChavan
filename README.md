@@ -54,7 +54,10 @@
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
 ---
 ### Some of my Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true?theme=outrun&hide=lang,stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true?theme=synthwave&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/CaseChanger)
 
 ---
 <p align="center">
