@@ -17,7 +17,7 @@
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://www.netflix.com/in/title/81039381)** as  well
-<br/>
+<br/> <br/> <br/>   
 
 ---
 
@@ -29,25 +29,26 @@
 
 ---
 
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
-
-[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/> <br> <br/><br/> <br> 
-
 <details>
   <summary> <b>🧧 Connect with me:</b> </summary> 
     
-<br> 
+</br> 
+
 [<img align="left" alt="Atharva | Github" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/github.svg" />][myprofile]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/twitter.svg" />][twitter]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/telegram.svg" />][Telegram]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Chess%20Q.svg" />][Chess]
+
 </details>
 <br/><br/> <br/><br/> 
+[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
+[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
+<br/><br/> <br> <br/><br/> <br> 
 
+---
 <p align="center">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
