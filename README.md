@@ -1,13 +1,12 @@
 <p align="center"><a href="https://github.com/AtharvaChavan/#"> <img align="center" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></p>
-<br>
 
 [<img align="right" src="https://gpvc.arturio.dev/Atharvachavan" />][myprofile]
-<br> 
-
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
 # Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva.</a>🙋‍♂️
 <br>
+
+[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
+
 ## About me: <br>
 
 ◾ 💻 Currently learning **[Data Science][DS]**.
@@ -39,14 +38,15 @@
 <details>
   <summary> <b>🧧 Connect with me:</b> </summary> 
     
+<br/><br/> <br> 
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
 </details>
-<br/><br/> 
-
+<br/><br/> <br/><br/> 
 
 ---
+
 [myprofile]: <https://github.com/AtharvaChavan>
 [buymeacoffee]: https://www.buymeacoffee.com/AtharvaChavan
 [facebook]: https://www.facebook.com/
