@@ -46,8 +46,9 @@
 
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
+<br> <br/><br/> 
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
-<br/><br/> <br> <br/><br/> <br> <br/><br/> <br> <br/><br/> <br> 
+<br/><br/> <br/><br/> <br> <br/><br/> 
 
 ---
 <p align="center">
@@ -79,11 +80,11 @@
 </p>
 
 <h3 align="center">Tactics is knowing what to do when there is something to do; Strategy is knowing what to do when there is Nothing to do.</h3>
+<br>
 <!-- For making transition -->
 <p align="center">
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
 <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
-    <br>
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px"></p>
 
 <p align="center">
