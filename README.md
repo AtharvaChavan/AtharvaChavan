@@ -34,12 +34,14 @@
     
 </br> 
 
+[<img align="left" alt="Atharva | Github" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/linkedin.svg" />][Linkedin]
 [<img align="left" alt="Atharva | Github" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/github.svg" />][myprofile]
 [<img align="left" alt="Atharva | Instagram" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/instagram.svg" />][instagram]
 [<img align="left" alt="Atharva | Twitter" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/twitter.svg" />][twitter]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/facebook.svg" />][facebook]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/telegram.svg" />][Telegram]
 [<img align="left" alt="Atharva | Facebook" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Chess%20Q.svg" />][Chess]
+[<img align="left" alt="Atharva | Github" width="35px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/gmail.svg" />][Gmail]
 
 </details>
 <br/>
@@ -47,8 +49,12 @@
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 <br> <br/> Wanna Buy me a Coffee?<br/> 
-[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg"/>][buymeacoffee]
+
+[<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg" style="vertical-align:middle; margin:3% 10%"/>][buymeacoffee]
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
+---
+### Some of my Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
 
 ---
 <p align="center">
@@ -120,6 +126,8 @@
 [buymeacoffee]: https://www.buymeacoffee.com/AtharvaChavan
 [myprofile]: <https://github.com/AtharvaChavan>
 [Telegram]: <https://t.me/BrainMetron>
+[Linkedin]: <https://www.linkedin.com/in/atharvachavan>
+[Gmail]: <AtharvaChavan1@gmail.com>
 [facebook]: <https://www.facebook.com/AtharvaChavan4u>
 [instagram]: <https://www.instagram.com/atharva___chavan>
 [twitter]: <https://twitter.com/Atharvachavan4u>
