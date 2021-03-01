@@ -130,7 +130,7 @@
 [myprofile]: <https://github.com/AtharvaChavan>
 [Telegram]: <https://t.me/BrainMetron>
 [Linkedin]: <https://www.linkedin.com/in/atharvachavan>
-[Gmail]: <AtharvaChavan1@gmail.com>
+[Gmail]: <mailto:AtharvaChavan1@gmail.com>
 [facebook]: <https://www.facebook.com/AtharvaChavan4u>
 [instagram]: <https://www.instagram.com/atharva___chavan>
 [twitter]: <https://twitter.com/Atharvachavan4u>
