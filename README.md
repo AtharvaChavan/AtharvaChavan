@@ -54,11 +54,19 @@
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
 ---
 ### Some of my Projects:
-<p align="center">
-(https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/BuyRight)
+<a href="github.com/AtharvaChavan/BuyRight" align="center" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight" width="100%" height="100%">
 
-(https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&theme=synthwave&hide=stars,commits,prs,issues,contribs)](https://github.com/AtharvaChavan/CaseChanger)
-</p>
+<a href="github.com/AtharvaChavan/CaseChanger" align="center" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="CaseChanger" width="100%" height="100%">
+    
+<a href="github.com/AtharvaChavan/BuyRight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
+</a>
+<a href="github.com/AtharvaChavan/CaseChanger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="CaseChanger"/>
+</a>
+
 
 ---
 <p align="center">
