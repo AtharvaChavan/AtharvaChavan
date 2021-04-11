@@ -12,7 +12,7 @@
 <br/>
 ◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
 <br/>
-◾ :weight_lifting_man:  Am currently trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
+◾ :weight_lifting_man:  Am currently being trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
 <br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
