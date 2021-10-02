@@ -34,7 +34,7 @@
     <a target="_blank">
     <img src="https://raw.githubusercontent.com/AtharvaChavan/Hosting/main/imgs/Handshake.gif"  height="25px" style="max-width:100%;">
   </a> 
-    <b> 🧧 Connect with me:</b></font></summary> 
+    <b> Connect with me: 🧧</b></font></summary> 
     
 </br> 
 
