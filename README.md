@@ -56,7 +56,9 @@
 
 [<img align="left" alt="Atharva's Coffee" width="250px" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/BMC.svg" style="vertical-align:middle; margin: 4% 10%"/>][buymeacoffee]
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
+
 ---
+
 ### Some of my Projects:
 <a href="https://github.com/AtharvaChavan/BuyRight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
@@ -142,7 +144,7 @@
 [facebook]: <https://www.facebook.com/AtharvaChavan4u>
 [instagram]: <https://www.instagram.com/atharva___chavan>
 [twitter]: <https://twitter.com/Atharvachavan4u>
-[Chess]: http://brainmetron.ml
+[Chess]: <http://brainmetron.ml>
 [DS]: https://www.computerscience.org/careers/data-science/
 [Chegg]: https://www.chegg.com/
 [EPAM]: https://www.epam.com/
