@@ -54,12 +54,13 @@
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
 ---
 ### Some of my Projects:
-<a href="github.com/AtharvaChavan/BuyRight">
+<a href="https://github.com/AtharvaChavan/BuyRight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
 </a>
 
+<a href="https://github.com/AtharvaChavan/CaseChanger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="CaseChanger"/>
-
+</a>
 
 
 ---
