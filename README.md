@@ -10,10 +10,6 @@
 ◾ :student: 23 year old **IT Engg**.<br/>
 ◾ 💻 Currently Working as **[Full Stack Developer @ Icertis][Icertis]**.
 <br/>
-◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
-<br/>
-◾ :weight_lifting_man:  Am currently being trained by **[EPAM][EPAM] & [Zensar][Zensar]**.
-<br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
 ◾ ❤ Fun fact: I love to  watch **[Movies](https://www.netflix.com/in/title/81039381)** as  well
