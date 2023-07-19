@@ -7,7 +7,7 @@
 [<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
 ## About me: <br>
-◾ :student: 23 year old **IT Engg**. Undergrad Student. <br/>
+◾ :student: 23 year old **IT Engg**.<br/>
 ◾ 💻 Currently Working as **[Full Stack Developer @ Icertis]**.
 <br/>
 ◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
