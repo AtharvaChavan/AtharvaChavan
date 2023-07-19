@@ -8,7 +8,7 @@
 
 ## About me: <br>
 ◾ :student: 23 year old **IT Engg**.<br/>
-◾ 💻 Currently Working as **[Full Stack Developer @ Icertis]**.
+◾ 💻 Currently Working as **[Full Stack Developer @ Icertis][Icertis]**.
 <br/>
 ◾ :desktop_computer: Currently working with as **[Subject Expert at Chegg][Chegg]**.
 <br/>
@@ -150,3 +150,4 @@
 [Chegg]: https://www.chegg.com/
 [EPAM]: https://www.epam.com/
 [Zensar]: https://www.zensar.com/
+[Icertis]: https://www.icertis.com/
