@@ -4,8 +4,6 @@
 
 # Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva</a>🙋‍♂️
 
-[<img align="right" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/coding.gif" alt="Coder GIF" height="280">][myprofile]
-
 ## About me: <br>
 ◾ :student: 23 year old **IT Engg**.<br/>
 ◾ 💻 Currently Working as **[Full Stack Developer @ Icertis][Icertis]**.
