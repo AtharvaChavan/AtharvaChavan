@@ -5,7 +5,7 @@
 # Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva</a>🙋‍♂️
 
 ## About me: <br>
-◾ :student: 23 year old **IT Engg**.<br/>
+◾ :student: **IT Engg with Hons. degree in Data Science**.<br/>
 ◾ 💻 Currently Working as **[Full Stack Developer @ Icertis][Icertis]**.
 <br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
