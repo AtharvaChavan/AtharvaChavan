@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/AtharvaChavan/#"> <img align="center" src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/me.png" height="200" width="200"/> </a></p>
 
-# Hallo Welt!👋 Ich heiße <a href="http://brainmetron.ml">Atharva</a>🙋‍♂️
+# Hallo Welt!👋 Ich heiße <a href="https://atharvachavan.github.io/brainmetron/">Atharva</a>🙋‍♂️
 
 ## About me: <br>
 ◾ :student: **IT Engg** with Hons. degree in **Data Science**.<br/>
@@ -13,10 +13,10 @@
 
 ---
 
-### Working on a startup: <a href="http://brainmetron.ml"> **BrainMetron** </a>:mechanical_arm:	
+### Working on a startup: <a href="https://atharvachavan.github.io/brainmetron/"> **BrainMetron** </a>:mechanical_arm:	
 
 <b>:brain: Stay Sharp!</b><br>
-  <p align="center"><a href="http://brainmetron.ml"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
+  <p align="center"><a href="https://atharvachavan.github.io/brainmetron/"> <img src="https://github.com/AtharvaChavan/Hosting/blob/main/imgs/Magnus.gif" alt="Magnus" />  </a>
 
 
 ---
@@ -137,7 +137,7 @@
 [facebook]: <https://www.facebook.com/AtharvaChavan4u>
 [instagram]: <https://www.instagram.com/atharva___chavan>
 [twitter]: <https://twitter.com/Atharvachavan4u>
-[Chess]: <http://brainmetron.ml>
+[Chess]:  <https://atharvachavan.github.io/brainmetron/>
 [DS]: https://www.computerscience.org/careers/data-science/
 [Chegg]: https://www.chegg.com/
 [EPAM]: https://www.epam.com/
