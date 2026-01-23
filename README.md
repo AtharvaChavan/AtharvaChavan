@@ -4,7 +4,7 @@
 
 ## About me: <br>
 ◾ :student: **IT Engg** with Hons. degree in **Data Science**.<br/>
-◾ 💻 Currently Working as **[Full Stack Developer @ Icertis][Icertis]**.
+◾ 💻 Currently Working as **[Solutions Engineer @ Icertis][Icertis]**.
 <br/>
 ◾ :chess_pawn: Love to play **[Chess][Chess]**.
 <br/>
@@ -142,4 +142,4 @@
 [Chegg]: https://www.chegg.com/
 [EPAM]: https://www.epam.com/
 [Zensar]: https://www.zensar.com/
-[Icertis]: https://www.icertis.com/
+[Icertis]: https://www.linkedin.com/in/atharvachavan/
