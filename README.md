@@ -52,8 +52,8 @@
 ---
 
 ### Some of my Projects:
-<a href="https://github.com/AtharvaChavan/BuyRight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=BuyRight&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
+<a href="https://github.com/AtharvaChavan/CAGR-Absoulte_Returns_Calculator_Site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CAGR-Absoulte_Returns_Calculator_Site&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="CAGR-Absoulte_Returns_Calculator_Site"/>
 </a>
 
 <a href="https://github.com/AtharvaChavan/CaseChanger">
