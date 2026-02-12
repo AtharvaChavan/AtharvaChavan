@@ -50,18 +50,6 @@
 <br/><br/> <br/><br/> <br> <br/><br/> <br/> 
 
 ---
-
-### Some of my Projects:
-<a href="https://github.com/AtharvaChavan/CAGR-Absoulte_Returns_Calculator_Site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CAGR-Absoulte_Returns_Calculator_Site&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="CAGR-Absoulte_Returns_Calculator_Site"/>
-</a>
-
-<a href="https://github.com/AtharvaChavan/CaseChanger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaChavan&repo=CaseChanger&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="CaseChanger"/>
-</a>
-
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
   <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
